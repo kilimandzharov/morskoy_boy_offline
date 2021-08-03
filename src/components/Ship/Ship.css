@@ -1,0 +1,8 @@
+.ship{
+    border:1px solid white;
+    width: 50px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: blue;
+    opacity: 0.6;
+}

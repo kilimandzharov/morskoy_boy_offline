@@ -1,0 +1,24 @@
+.dispose{
+  display: grid;
+  grid-template-columns:  3fr 1fr;
+  grid-gap:50px;
+  padding:10px;
+  justify-items: start;
+  width: 900px;
+  margin: 0 auto;
+}
+
+
+.start-button{
+  display: block;
+  width: 200px;
+  margin: 30px auto;
+  height: 80px;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  background-color: blueviolet;
+}
+.button-container{
+  min-width: 900px;
+  margin: 0 auto;
+}
