@@ -1,8 +1,9 @@
 .mark{
     width: 50px;
     height: 50px;
-    font-size:30px;
+    font-size:27px;
     color:red;
+    padding-top:4px;
     text-align: center;
     user-select: none;
 
